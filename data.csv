@@ -1,4 +1,4 @@
-name,uid
-Jim Musk,111
-Alex Musk,222
-name3,333
+isSold,uid,itemName,description,price
+true,111,Branson C2150B-8000 Boom cylinder,Branson C2150B-8000 Boom cylinder,975.25
+false,222,Wallenstein GX Series GX720 7 ft 8 in depth 18 in bucket 4 point sub-frame.,13500.00,
+true,333,Pro-Tech 12,Pro-Tech 12,4950.00
